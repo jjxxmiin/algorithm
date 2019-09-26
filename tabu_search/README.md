@@ -22,6 +22,12 @@ use_math: true
 
 
 
+- tabu list를 이용해서 최적의 경로를 찾기위해 경로를 최적화 해가는 방식
+- best는 솔루션에 대한 최적의 값
+- candidate는 랜덤하게 예측한 최적의 값
+- cost는 경로를 이동하는 총 비용
+- tabulist를 이용해서 tabu(금지)로 분류
+
 # 참조
 - [https://github.com/rbhan/kaggle_tsp](https://github.com/rbhan/kaggle_tsp)
 - [http://www.cleveralgorithms.com/nature-inspired/stochastic/tabu_search.html](http://www.cleveralgorithms.com/nature-inspired/stochastic/tabu_search.html)
