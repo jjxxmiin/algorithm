@@ -28,7 +28,7 @@ use_math: true
 - cost는 경로를 이동하는 총 비용
 - tabulist를 이용해서 tabu(금지)로 분류
 
-# 참조
+# 구현 자료
 - [https://github.com/rbhan/kaggle_tsp](https://github.com/rbhan/kaggle_tsp)
 - [http://www.cleveralgorithms.com/nature-inspired/stochastic/tabu_search.html](http://www.cleveralgorithms.com/nature-inspired/stochastic/tabu_search.html)
 - [https://www.techconductor.com/algorithms/python/Search/Tabu_Search.php](https://www.techconductor.com/algorithms/python/Search/Tabu_Search.php) 
